@@ -32,7 +32,11 @@ def Your_score(score):
     value = font_style.render("Your Score: " + str(score), True, white)
     screen.blit(value, [0, 0])
 
-# Initial snake position
+# Initial snake position!
+
 def message(msg,color):
     mesg = font_style.render(msg, True, color)
     screen.blit(mesg, [width/2, height/2])
+[Game_python](https://user-images.githubusercontent.com/48614035/215202332-2da8c60a-e161-4f85-bc26-d6115c654fcb.PNG)
+
+
