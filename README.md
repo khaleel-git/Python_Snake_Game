@@ -38,4 +38,4 @@ def message(msg,color):
     screen.blit(mesg, [width/2, height/2])
 
 
-![Game_python](https://user-images.githubusercontent.com/48614035/215202490-425a2e94-23a2-4fa6-a8a5-de1ec58f6084.PNG)
+![Game_python](https://user-images.githubusercontent.com/48614035/215206559-e4d876ba-6ea5-43ba-8ffe-2dceb99e546f.PNG)
